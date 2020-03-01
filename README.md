@@ -1,4 +1,6 @@
 # BTC Deep Learning Generated Weekly Trend Signal
+Presentation: https://htmlpreview.github.io/?https://github.com/qboy21/Bitcoin-Deep-Learning-Signal/blob/master/BTC_Signal_FH.html
+
 The Bitcoin Weekly trend signal is derived from on-chain metrics using subscription API endpoints that are updated daily and resampled into a weekly format for feature engineering and analysis.
 
 f1 score weighted for recall of 0.81 and ROC 0.825.

@@ -9,7 +9,7 @@ The signal provides a prediction on the direction of Bitcoin's price up (Long) o
 
 The signal is integrated into a fully automated algorithmic trading system that enters orders based on the signal and 3 other market based conditions on an hourly basis.
 
-Live trading performance has outperformed Bitcoin YTD in 2020.
+Live trading launched in May 2020.
 
 Code and ATS available upon request.
 

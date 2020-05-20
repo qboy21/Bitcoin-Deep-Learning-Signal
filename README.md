@@ -10,6 +10,8 @@ The signal provides a prediction on the direction of Bitcoin's price up (Long) o
 The signal is integrated into a fully automated algorithmic trading system that enters orders based on the signal and 3 other market based conditions on an hourly basis.
 
 Live trading launched in May 2020 using a modified Daily Signal.
+MTD outerperformance v. Bitcoin +10.2%
+![Daily ROC Signa](dailyROC.png)
 
 Code and ATS available upon request.
 

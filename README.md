@@ -11,7 +11,7 @@ The signal is integrated into a fully automated algorithmic trading system that 
 
 Live trading launched in May 2020 using a modified Daily Signal.
 MTD outerperformance v. Bitcoin +15.9%.
-![Bitcoin-Deep-Learning-Signal](dailyPOC.png)
+![Bitcoin-Deep-Learning-Signal](dailyROC.png)
 
 
 

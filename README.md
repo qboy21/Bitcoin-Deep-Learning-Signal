@@ -9,7 +9,7 @@ The signal provides a prediction on the direction of Bitcoin's price up (Long) o
 
 The signal is integrated into a fully automated algorithmic trading system that enters orders based on the signal and 3 other market based conditions on an hourly basis.
 
-Live trading launched in May 2020 using a modified Daily Signal that was later changed due to access to API endpoints.
+Live trading launched in September 2023 using a modified Daily Signal that was later changed due to access to API endpoints.
 The current model is a Random Forest with 20 features incorporating market, sentiment, on-chain and economic data.
 The current Daily Signal Live 3-month performance:
 MTD outerperformance v. Bitcoin (+5.6% Pure Alpha) and Total Return (+58.2%).

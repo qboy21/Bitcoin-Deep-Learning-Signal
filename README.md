@@ -17,4 +17,4 @@ MTD outerperformance v. Bitcoin (+5.6% Pure Alpha) and Total Return (+58.2%).
 
 Code and ATS available upon request.
 
-Copyright 2020, Farooq Hassan, all rights reserved.
+Copyright 2020, F. Hassan, all rights reserved.

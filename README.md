@@ -15,7 +15,7 @@ The current model is a LSTM with 20 features incorporating market, sentiment, on
 
 The current Daily Signal Live 3-month performance:
 
-MTD outerperformance v. Bitcoin (+5.6% Pure Alpha) and Total Return (+58.2%).
+
 ![Bitcoin-Deep-Learning-Signal](sr.png)
 
 Code and ATS available upon request.

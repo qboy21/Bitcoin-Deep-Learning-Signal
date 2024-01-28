@@ -11,7 +11,7 @@ The signal is integrated into a fully automated algorithmic trading system that 
 
 Live trading launched in 2023 using a modified Daily Signal that was later changed due to access to API endpoints.
 
-The current model is a Random Forest with 20 features incorporating market, sentiment, on-chain and economic data.
+The current model is a LSTM with 20 features incorporating market, sentiment, on-chain and economic data.
 
 The current Daily Signal Live 3-month performance:
 

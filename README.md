@@ -16,7 +16,7 @@ The current model is a LSTM with 20 features incorporating market, sentiment, on
 The current Daily Signal Live 3-month performance:
 
 
-![Bitcoin-Deep-Learning-Signal](sr.png)
+![Bitcoin-Deep-Learning-Signal](btc_sr.png)
 
 Code and ATS available upon request.
 

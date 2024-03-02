@@ -20,4 +20,4 @@ The current Daily Signal Live 3-month performance:
 
 Code and ATS available upon request.
 
-Copyright 2020, F. Hassan, all rights reserved.
+Copyright 2023, F. Hassan, all rights reserved.
